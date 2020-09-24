@@ -1,0 +1,5 @@
+data/
+MNIST/
+.ipynb_checkpoints/
+cifar_net.pth
+
